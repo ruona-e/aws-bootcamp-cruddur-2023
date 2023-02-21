@@ -7,7 +7,7 @@ I attempted all of the assignments and I ran into a challenge with my gitpod. Yo
 - [You can view my napkin diagram here](https://lucid.app/lucidchart/21c98aa7-8693-4dc6-976a-1abb40d14334/edit?view_items=qsUywmT1Zpum&invitationId=inv_225ccd69-5af4-46e2-8c36-0cbe7aebfc06)
 
 #  AWS CLI Install
-![My AWS CLI](https://drive.google.com/file/d/1Vyy5Empvnh9x59QFe6AvSO0JIU3F8IEr/view?usp=share_link)
+![My AWS CLI](https://lh3.googleusercontent.com/iNC3_9ri3Nf-21SnTC21-GUQK3e272tuSmzQ_JO7pK92-jrOw3Kk53CJevsOucKEXYyUbD4LCqtzaFIbpsrrIhpUc5_43rVKqH5f08k)
 
 ## AWS BUDGET
 ![My Budget](https://drive.google.com/file/d/1iOdMKqXPwOR_nHyvvHY8U7112Jj4BPTa/view?usp=share_link)
