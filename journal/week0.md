@@ -10,4 +10,4 @@ I attempted all of the assignments and I ran into a challenge with my gitpod. Yo
 ![My AWS CLI](https://lh3.googleusercontent.com/iNC3_9ri3Nf-21SnTC21-GUQK3e272tuSmzQ_JO7pK92-jrOw3Kk53CJevsOucKEXYyUbD4LCqtzaFIbpsrrIhpUc5_43rVKqH5f08k)
 
 ## AWS BUDGET
-![My Budget](https://drive.google.com/file/d/1iOdMKqXPwOR_nHyvvHY8U7112Jj4BPTa/view?usp=share_link)
+![My Budget](https://lh3.googleusercontent.com/l2dDLNpkrR-57fODNuGg4iYM8lZq5G4OYHJ_np-8ARs5vBtADZJaYlBPDBOjh-IRZ3ghSbyMRaE3s5vAAyO_MI48uT3c2PrPFPU-zck3yg)
