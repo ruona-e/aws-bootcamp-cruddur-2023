@@ -10,7 +10,7 @@ I attempted all of the assignments and I ran into a challenge with my gitpod. Wh
 ![My AWS CLI](https://lh3.googleusercontent.com/iNC3_9ri3Nf-21SnTC21-GUQK3e272tuSmzQ_JO7pK92-jrOw3Kk53CJevsOucKEXYyUbD4LCqtzaFIbpsrrIhpUc5_43rVKqH5f08k)
 
 ## AWS BUDGET
-![My Budget](https://lh3.googleusercontent.com/l2dDLNpkrR-57fODNuGg4iYM8lZq5G4OYHJ_np-8ARs5vBtADZJaYlBPDBOjh-IRZ3ghSbyMRaE3s5vAAyO_MI48uT3c2PrPFPU-zck3yg)
+![My Budget](https://raw.githubusercontent.com/ruona-e/aws-bootcamp-cruddur-2023/main/journal/pics/AWS%20Budget.PNG)
 
 #SQS Challenge
 ![](https://lh3.googleusercontent.com/6g31aawfKrz8dAnryp8qqg9aqbTonnDRDzi9ugIiGFvqClT8xko1kHBC24S5WNLjGZz6v-l0INdpU6Bu3GC4dURWgq0CkxzJ4JYYLvII)
