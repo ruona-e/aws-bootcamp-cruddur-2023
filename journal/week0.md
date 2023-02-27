@@ -12,5 +12,5 @@ I attempted all of the assignments and I ran into a challenge with my gitpod. Wh
 ## AWS BUDGET
 ![](https://raw.githubusercontent.com/ruona-e/aws-bootcamp-cruddur-2023/main/journal/pics/AWS%20Budget.PNG)
 
-#SQS Challenge
+# SQS Challenge
 ![](https://raw.githubusercontent.com/ruona-e/aws-bootcamp-cruddur-2023/main/journal/pics/SQS.PNG)
